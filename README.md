@@ -20,13 +20,25 @@ My name is Matheus Arakaki
   <img align="center" alt="nodejs"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt="Ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="nestjs"  src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img align="center" alt="prisma"  src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> 
-  <img align="center" alt="postgre"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
   <img align="center" alt="docker"  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="redis"  src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" /> 
+  <img align="center" alt="prisma"  src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> 
+  <img align="center" alt="mongoose"  src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=white" />
+  <img align="center" alt="postgre"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  <img align="center" alt="mongodb"  src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
   <img align="center" alt="sqlite"  src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img align="center" alt="redis"  src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" /> 
   <img align="center" alt="fastify"  src="https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" /> 
-  <img align="center" alt="express"  src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+  <img align="center" alt="express"  src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img align="center" alt="semantic"  src="https://img.shields.io/badge/SemanticRelease-494949?style=for-the-badge&logo=semanticrelease&logoColor=white" />
+  <img align="center" alt="swagger"  src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img align="center" alt="cicd"  src="https://img.shields.io/badge/CI/CD-43853D?style=for-the-badge&logoColor=white"/>
+</div><br></br>
+
+### 🛠️ &nbsp;DevOps
+
+<div style="display: inline_block">
+  <img align="center" alt="terraform"  src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white" />
+  <img align="center" alt="aws"  src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </div><br></br>
 
 ### :desktop_computer: &nbsp;Front End
